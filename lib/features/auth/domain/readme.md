@@ -1,0 +1,3 @@
+- Domain lyer consists of 
+  - Entities
+  - Failures

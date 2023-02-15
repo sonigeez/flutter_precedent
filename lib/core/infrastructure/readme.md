@@ -1,0 +1,5 @@
+- Infrastructure layer containes 
+  - Repositories
+  - Remote/Local Services
+  - DTOs(Data Transfer Objects)
+  - This layer is responsible to communicate with APIs

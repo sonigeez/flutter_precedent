@@ -1,0 +1,1 @@
+- Application layer consists our immutable state managemnt logic.
